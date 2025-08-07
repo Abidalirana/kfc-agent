@@ -1,4 +1,4 @@
-# kfc-agent.py
+# app.py
 
 import asyncio
 import os
